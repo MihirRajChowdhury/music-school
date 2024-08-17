@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-## Developed a demo landing page for an online school that would take them to new places by increasing their reach to the online domain here is an image of the website.
+##About
+Developed a demo landing page for an online school that would take them to new places by increasing their reach to the online domain here is an image of the website.
+![Uploading Screenshot 2024-08-17 202855.png…]()
 
 
 ## Getting Started
