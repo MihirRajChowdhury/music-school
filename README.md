@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+
+## Developed a demo landing page for an online school that would take them to new places by increasing their reach to the online domain here is an image of the website.
+
+
 ## Getting Started
 
 First, run the development server:
